@@ -1,0 +1,4 @@
+Write Python Code,10
+Complete Homework,9
+Eat breakfast,5
+Finish painting,2
